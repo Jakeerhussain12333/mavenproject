@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Welcome to PYTHONLIFE DevOps Course</title>
+    <title>Welcome to DevOps with AWS Course</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -33,7 +33,7 @@
 <body>
     <div class="container">
         <marquee behavior="scroll" direction="left" scrollamount="4">
-            <h1>Welcome to PYTHONLIFE DevOps Course</h1>
+            <h1>Welcome to DevOps with AWS Course</h1>
         </marquee>
         <ul>
             <li><strong>Learn DevOps principles and practices</strong></li>
